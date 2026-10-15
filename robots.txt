@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aabhaingle816-wq.github.io/the-movement-mind/sitemap.xml
